@@ -1,0 +1,3 @@
+Java  is a highly typed object-oriented programming} is a language developed.
+Java [applications are usually are
+translated into a special bytecode.
